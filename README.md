@@ -3,7 +3,7 @@
 **<https://storm-webrain.herokuapp.com/>**
 
 ## DEMO
-![gif](https://github.com/kotaok/storm-webrain/blob/master/Gitimages/WeBrain.gif)
+![gif](Gitimages/WeBrain.gif)
 
 
 ## Features
@@ -15,7 +15,7 @@
 
 すべてのチャットが縦一列に表示されるチャットや掲示板とは違い、<br>
 WeBrainは投稿内容が一枚一枚のカードのように表示されます。
-![img](https://github.com/kotaok/storm-webrain/blob/master/Gitimages/top.png)
+![img](Gitimages/top.png)
 
 
 ## Usage
@@ -48,7 +48,7 @@ WeBrainは投稿内容が一枚一枚のカードのように表示されます�
 文章を左下の入力欄に入力し、下の「送信」ボタンを押すとメッセージを送信できます。<br>
 送信したメッセージはリアルタイムでチームメンバーに反映されます。<br>
 メッセージは69文字まで送信できます。<br>
-![png2](https://github.com/kotaok/storm-webrain/blob/master/Gitimages/count.png)
+![png2](Gitimages/count.png)
 
 
 ### チャットの削除
@@ -62,7 +62,7 @@ WeBrainは投稿内容が一枚一枚のカードのように表示されます�
 
 投稿したメッセージをドラッグ&ドロップすると指定の位置に入れ替えることができます。<br>
 自分の画面にのみ反映されます。
-![gif2](https://github.com/kotaok/storm-webrain/blob/master/Gitimages/move.gif)
+![gif2](Gitimages/move.gif)
 
 
 ## Note
